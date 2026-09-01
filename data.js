@@ -487,7 +487,7 @@ window.SITE_DATA = {
       topic: "Structural optimization with Machine Learning",
       startYear: 2026,
       endYear: null,
-      links: []
+      links: [{ label: "Researchgate", url: "https://www.researchgate.net/profile/Ei_Pyone5"}]
     },
     {
       name: "Prapawit Intun",
@@ -495,7 +495,7 @@ window.SITE_DATA = {
       topic: "Artificial Intelligence for Architectural Heritage (tentative)",
       startYear: 2026,
       endYear: null,
-      links: []
+      links: [{ label: "Google Scholar", url: "https://scholar.google.com/citations?hl=th&user=8KUjm6YAAAAJ"}]
     },
     {
       name: "Kanyagon Amornvet",
