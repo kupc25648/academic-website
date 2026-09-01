@@ -474,7 +474,7 @@ window.SITE_DATA = {
       topic: "AI-Driven Structural Optimization, Seismic Vulnerability Assessments, Seismotectonic and Geophysical investigations of infrastructural facilities including buildings and dams",
       startYear: 2025,
       endYear: null,
-      links: []
+      links: [{ label: "Google Scholar", url: "https://scholar.google.com/citations?user=AP4oE3QAAAAJ&hl=th&oi=ao"}]
       // No Notion link is required.
       // Add any links you want, or use an empty array [].
       // links: [
