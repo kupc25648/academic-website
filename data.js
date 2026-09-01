@@ -490,6 +490,14 @@ window.SITE_DATA = {
       links: []
     },
     {
+      name: "Prapawit Intun",
+      role: "PhD Researcher",
+      topic: "Artificial Intelligence for Architectural Heritage (tentative)",
+      startYear: 2026,
+      endYear: null,
+      links: []
+    },
+    {
       name: "Kanyagon Amornvet",
       role: "Graduate Researcher",
       topic: "Context-Aware Material Infill Generation for Adaptive Reuse and Architectural Repair using Machine Learning",
@@ -526,14 +534,5 @@ window.SITE_DATA = {
       source: "Journal",
       url: "https://example.com/"
     },
-    {
-      date: "2026-07-01",
-      type: "Lab Update",
-      title: "New computational design courses and research activities",
-      summary:
-        "Teaching activities continue to connect optimization, structures, programming and architectural research.",
-      source: "LinkedIn",
-      url: "https://www.linkedin.com/in/ckupwiwat/"
-    }
   ]
 };
