@@ -366,13 +366,13 @@ window.SITE_DATA = {
           year: 2024,
           label: "Y2024",
           source: "Notion",
-          url: "https://www.notion.so/"
+          url: "https://frequent-beluga-27a.notion.site/Computer-Technology-for-Architectural-Research-2501684-Y2024-200171f044c7809daaa9e6ff580aa020"
         },
         {
           year: 2025,
           label: "Y2025",
           source: "Notion",
-          url: "https://www.notion.so/"
+          url: "https://frequent-beluga-27a.notion.site/Computer-Technology-for-Architectural-Research-2501684-Y2025-2dd171f044c780cd9c28c8e92c960499"
         }
       ]
     },
@@ -388,13 +388,13 @@ window.SITE_DATA = {
           year: 2025,
           label: "Individual Study in Architecture · Y2025",
           source: "Notion",
-          url: "https://www.notion.so/"
+          url: "https://frequent-beluga-27a.notion.site/Individual-Study-in-Architecture-2501584-Y2025-1-23c171f044c7805b896fe44da85d9a5c"
         },
         {
           year: 2026,
           label: "Workshop in Structural Artifacts · Y2026",
           source: "Notion",
-          url: "https://www.notion.so/"
+          url: "https://frequent-beluga-27a.notion.site/Workshop-in-Structural-Artifacts-Individual-Study-in-Architecture-2501584-Y2026-1-3b3171f044c7806fbe6ecd18a9caf9d2"
         }
       ]
     },
@@ -410,7 +410,7 @@ window.SITE_DATA = {
           year: 2026,
           label: "Y2026",
           source: "Notion",
-          url: "https://www.notion.so/"
+          url: "https://frequent-beluga-27a.notion.site/Optimization-in-Architecture-and-Structural-Design-2501370-Y2026-3b1171f044c7807d8d7afb9c5069c1fb"
         }
       ]
     },
@@ -426,7 +426,23 @@ window.SITE_DATA = {
           year: 2025,
           label: "Chaos–KronosII · Y2025",
           source: "Notion",
-          url: "https://www.notion.so/"
+          url: "https://frequent-beluga-27a.notion.site/Architectural-Design-I-2501113-Y2025-1-Chaos-KronosII-270171f044c78068b2fbd65f4d865db7"
+        }
+      ]
+    },
+
+    {
+      code: "2501113",
+      title: "Architectural Design I",
+      description:
+        "Architectural studio teaching, including computational and rule-based design explorations of The Relation.",
+      topics: ["Studio", "Parametric Design", "Architecture"],
+      offerings: [
+        {
+          year: 2026,
+          label: "The Relation · Y2026",
+          source: "Notion",
+          url: "https://frequent-beluga-27a.notion.site/Architectural-Design-I-2501113-Y2026-The-Relation-3ce171f044c7803a9b1bd847099a53d5"
         }
       ]
     }
