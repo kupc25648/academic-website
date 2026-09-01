@@ -427,17 +427,7 @@ window.SITE_DATA = {
           label: "Chaos–KronosII · Y2025",
           source: "Notion",
           url: "https://frequent-beluga-27a.notion.site/Architectural-Design-I-2501113-Y2025-1-Chaos-KronosII-270171f044c78068b2fbd65f4d865db7"
-        }
-      ]
-    },
-
-    {
-      code: "2501113",
-      title: "Architectural Design I",
-      description:
-        "Architectural studio teaching, including computational and rule-based design explorations of The Relation.",
-      topics: ["Studio", "Parametric Design", "Architecture"],
-      offerings: [
+        },
         {
           year: 2026,
           label: "The Relation · Y2026",
@@ -445,7 +435,7 @@ window.SITE_DATA = {
           url: "https://frequent-beluga-27a.notion.site/Architectural-Design-I-2501113-Y2026-The-Relation-3ce171f044c7803a9b1bd847099a53d5"
         }
       ]
-    }
+    },  
   ],
 
   resources: [
