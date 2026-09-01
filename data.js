@@ -490,6 +490,14 @@ window.SITE_DATA = {
       links: [{ label: "Researchgate", url: "https://www.researchgate.net/profile/Ei_Pyone5"}]
     },
     {
+      name: "Dr. Anuwat Budda",
+      role: "Postdoctoral Researcher",
+      topic: "Graph Respresentation of Buildings for Safety Analysis",
+      startYear: 2026,
+      endYear: null,
+      // links: []
+    },
+    {
       name: "Prapawit Intun",
       role: "PhD Researcher",
       topic: "Artificial Intelligence for Architectural Heritage (tentative)",
@@ -526,13 +534,22 @@ window.SITE_DATA = {
       url: "https://example.com/"
     },
     {
-      date: "2026-08-01",
-      type: "Publication",
-      title: "New reinforcement-learning work in structural design",
+    date: "2026-07-30",
+    type: "Invited Talk",
+    title: "Invited speaker at the ASEAN–China Symposium on Digital Built Heritage",
+    summary:
+      "Presented research on building-to-graph representations and pre-trained image embeddings for machine learning at the ASEAN–China Symposium on Digital Information Systems and Sustainable Renewal of the Built Heritage in Guizhou, China.",
+    source: "ASEAN–China Symposium",
+    url: "https://www.facebook.com/share/p/19XSPc82Zg/"
+    },
+    {
+      date: "2026-06-29",
+      type: "Research Grant",
+      title: "Awarded research funding from the Asahi Glass Foundation",
       summary:
-        "A recent publication examines reinforcement-learning paradigms for multi-objective structural optimization.",
-      source: "Journal",
-      url: "https://example.com/"
+        "Received a 2026 research grant from the Asahi Glass Foundation, Japan, at the 34th Special CU-af Seminar on Cross-Disciplinary Research for Sustainable Impact at Chulalongkorn University.",
+      source: "Research Chula",
+      url: "https://www.research.chula.ac.th/special-seminar-34-asahi/"
     },
   ]
 };
