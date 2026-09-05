@@ -1,0 +1,31 @@
+# Chi-tathon Kupwiwat
+
+> Academic website of Chi-tathon Kupwiwat, Assistant Professor, Department of Architecture, Faculty of Architecture, Chulalongkorn University. Research spans architectural structures, computational design, structural optimization, machine learning, reinforcement learning, graph-based AI, generative structural AI and sustainability.
+
+## Primary research pages
+- [Architectural Structural Systems & Sustainability Intelligence](https://ckupwiwat.com/research/sustainable-structural-design/): We study structural systems as integrated architectural entities — where force flow, material allocation, fabrication logic and sustainability are co-optimized.
+- [Generative Structural AI & Graph Foundation Models](https://ckupwiwat.com/research/generative-structural-ai/): We develop AI systems that understand and generate structures as graph-based mechanical systems.
+- [Structural Reasoning & LLM Systems](https://ckupwiwat.com/research/structural-reasoning-llm/): We investigate how structural systems can be evaluated and reasoned about using AI-driven reasoning frameworks.
+- [Advanced Reinforcement Learning for Structural Systems](https://ckupwiwat.com/research/reinforcement-learning-structural-optimization/): We develop advanced reinforcement-learning methodologies tailored for structural systems.
+
+## Publications
+- [All publications](https://ckupwiwat.com/publications/)
+- [Reinforcement learning](https://ckupwiwat.com/publications/reinforcement-learning/)
+- [Structural optimization](https://ckupwiwat.com/publications/structural-optimization/)
+- [Lattice shells and gridshells](https://ckupwiwat.com/publications/lattice-shells-gridshells/)
+- [Machine learning in architecture](https://ckupwiwat.com/publications/machine-learning-architecture/)
+
+## Graduate research and teaching
+- [Graduate research in AI & structural design](https://ckupwiwat.com/graduate-research/)
+- [Teaching](https://ckupwiwat.com/teaching/)
+- [Machine learning for architectural research](https://ckupwiwat.com/teaching/machine-learning-architectural-research/)
+- [Optimization in architecture & structural design](https://ckupwiwat.com/teaching/optimization-architecture-structural-design/)
+
+## Other
+- [People](https://ckupwiwat.com/people/)
+- [Open computational resources](https://ckupwiwat.com/resources/)
+- [News](https://ckupwiwat.com/news/)
+- [About](https://ckupwiwat.com/about/)
+- [Google Scholar](https://scholar.google.com/citations?user=lrAXmRwAAAAJ&hl=th&oi=ao)
+
+The authoritative source for current biographical, research, publication, teaching, people and news data is this website and its linked primary sources.
