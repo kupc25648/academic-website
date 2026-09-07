@@ -1,0 +1,36 @@
+# Chi-tathon Kupwiwat
+
+> Chi-tathon Kupwiwat is an Assistant Professor of Architecture at Chulalongkorn University. His research is positioned broadly in AI in Architecture and Computational Architecture, with particular expertise in structural intelligence, structural optimization, machine learning, reinforcement learning, graph-based representation and AI-assisted structural design.
+
+## Research hierarchy
+AI in Architecture → Computational Design → Structural Intelligence → Structural Optimization / Machine Learning / Reinforcement Learning
+
+## Primary research pages
+- [AI in Architecture: Structural Systems & Sustainability Intelligence](https://ckupwiwat.com/research/sustainable-structural-design/): This research arc places structural design within the broader field of AI in architecture. We study how computation, optimization and data-driven methods can help architects reason about structural systems as integrated design entities rather than as isolated engineering checks.
+- [Generative Structural AI & Representation Learning](https://ckupwiwat.com/research/generative-structural-ai/): We investigate how architectural and structural systems should be represented so that machine-learning models can understand topology, geometry, relationships and performance.
+- [Structural Reasoning & Building Intelligence](https://ckupwiwat.com/research/structural-reasoning-llm/): Beyond prediction and optimization, we investigate how AI can reason about architectural and structural systems and communicate why a design decision is plausible, unsafe or valuable.
+- [Reinforcement Learning for Structural Design & Optimization](https://ckupwiwat.com/research/reinforcement-learning-structural-optimization/): We develop reinforcement-learning methods for architectural and structural design problems in which an agent must explore a large design space while responding to structural performance, geometric and multi-objective criteria.
+
+## Publications
+- [AI in Architecture](https://ckupwiwat.com/publications/ai-in-architecture/)
+- [All publications](https://ckupwiwat.com/publications/)
+- [Reinforcement learning](https://ckupwiwat.com/publications/reinforcement-learning/)
+- [Structural optimization](https://ckupwiwat.com/publications/structural-optimization/)
+- [Lattice shells and gridshells](https://ckupwiwat.com/publications/lattice-shells-gridshells/)
+- [Machine learning in architecture](https://ckupwiwat.com/publications/machine-learning-architecture/)
+
+## Graduate supervision and teaching
+Chi-tathon Kupwiwat supervises graduate research in artificial intelligence and computational methods for architecture, particularly structural design, optimization, machine learning, reinforcement learning and data-driven design.
+- [Graduate supervision in AI & computational architecture](https://ckupwiwat.com/graduate-research/)
+- [Teaching](https://ckupwiwat.com/teaching/)
+- [Machine learning for architectural research](https://ckupwiwat.com/teaching/machine-learning-architectural-research/)
+- [Optimization in architecture & structural design](https://ckupwiwat.com/teaching/optimization-architecture-structural-design/)
+
+## Other
+- [People](https://ckupwiwat.com/people/)
+- [Open computational resources](https://ckupwiwat.com/resources/)
+- [News](https://ckupwiwat.com/news/)
+- [About](https://ckupwiwat.com/about/)
+- [Google Scholar](https://scholar.google.com/citations?user=lrAXmRwAAAAJ&hl=th&oi=ao)
+
+The authoritative source for current biographical, research, publication, teaching, supervision, people and news data is this website and its linked primary sources.

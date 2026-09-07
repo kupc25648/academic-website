@@ -1,0 +1,137 @@
+# Chi-tathon Kupwiwat — Research and Academic Profile
+
+## Profile
+Chi-tathon Kupwiwat
+Assistant Professor
+Department of Architecture, Faculty of Architecture
+Chulalongkorn University
+
+I am an Assistant Professor of Architecture at Chulalongkorn University working at the intersection of artificial intelligence, computational design and structural systems. My research spans AI in architecture, structural optimization, machine learning, reinforcement learning, graph-based representation, generative structural AI and data-driven building analysis. A recurring question across this work is how architectural and structural knowledge can be represented computationally so that machines can predict, reason, optimize and generate useful design alternatives. Teaching, student supervision and open computational tools extend this research into reusable workflows for architectural education and practice.
+
+## Positioning
+Broad field: AI in Architecture and Computational Architecture.
+Specialization: Structural Intelligence, AI for Structural Design, Structural Optimization, Machine Learning and Reinforcement Learning.
+
+## Graduate supervision
+Chi-tathon Kupwiwat supervises graduate research in artificial intelligence and computational methods for architecture, particularly projects involving structural design, optimization, machine learning, reinforcement learning and data-driven design at Chulalongkorn University. The graduate-research page describes current themes and pathways and does not imply that a funded position is currently open.
+URL: https://ckupwiwat.com/graduate-research/
+
+## Research themes
+### AI in Architecture: Structural Systems & Sustainability Intelligence
+URL: https://ckupwiwat.com/research/sustainable-structural-design/
+This research arc places structural design within the broader field of AI in architecture. We study how computation, optimization and data-driven methods can help architects reason about structural systems as integrated design entities rather than as isolated engineering checks.
+
+The work connects force flow, material allocation, fabrication logic, constructability and environmental impact so that performance and sustainability can become active design variables.
+
+Applications include timber lattice shells, life-cycle-aware optimization, material allocation, joint rationalization and computational workflows that connect architectural form with structural performance.
+
+Key questions:
+- How can AI and computation support architectural decisions about structural form, material and construction?
+- How can structural systems be optimized for mechanical performance, embodied carbon and architectural intent at the same time?
+- How do fabrication and joint constraints reshape the design space available to architects?
+
+Methods and skills:
+- Architectural and computational design
+- Rhino + Grasshopper
+- FEM tools (Karamba3D, custom Python FEM)
+- Python (NumPy, SciPy)
+- Life-Cycle Assessment (LCA) workflows
+- Multi-objective optimization
+
+### Generative Structural AI & Representation Learning
+URL: https://ckupwiwat.com/research/generative-structural-ai/
+We investigate how architectural and structural systems should be represented so that machine-learning models can understand topology, geometry, relationships and performance.
+
+Buildings, frames, trusses and shells can be encoded as graphs, geometric descriptors, grids or hybrid representations. These representations support prediction, classification, inverse design and generative structural workflows.
+
+The theme includes graph neural networks, representation learning, conditional generative models, diffusion-based design exploration and AI-assisted generation of mechanically meaningful structural alternatives.
+
+Key questions:
+- What representation allows AI to understand architecture and structure most effectively?
+- Can AI generate structural topologies and geometries that remain mechanically meaningful?
+- How should physical constraints, architectural intent and data representation interact in inverse and generative design?
+
+Methods and skills:
+- Python (PyTorch, TensorFlow)
+- Graph Neural Networks
+- Representation learning
+- CVAE and diffusion models
+- Dataset engineering
+- Structural and architectural graph encoding
+
+### Structural Reasoning & Building Intelligence
+URL: https://ckupwiwat.com/research/structural-reasoning-llm/
+Beyond prediction and optimization, we investigate how AI can reason about architectural and structural systems and communicate why a design decision is plausible, unsafe or valuable.
+
+This includes graph-based building representation, large-language-model-assisted reasoning, fire-safety and regulatory evaluation, building-value assessment and hybrid symbolic/data-driven systems.
+
+The broader objective is interpretable design intelligence: computational systems that connect building information, structural knowledge and architectural decision-making rather than returning an unexplained numerical answer.
+
+Key questions:
+- Can AI reason about buildings and structural systems under regulatory, safety and design constraints?
+- How can graph, geometric and textual representations be combined for building-level reasoning?
+- How can interpretability improve trust and usefulness in AI-assisted architectural design?
+
+Methods and skills:
+- Python and LLM APIs
+- Graph representation learning
+- Explainable AI
+- BIM / building data processing
+- Rule-based and hybrid reasoning systems
+
+### Reinforcement Learning for Structural Design & Optimization
+URL: https://ckupwiwat.com/research/reinforcement-learning-structural-optimization/
+We develop reinforcement-learning methods for architectural and structural design problems in which an agent must explore a large design space while responding to structural performance, geometric and multi-objective criteria.
+
+Trusses, steel frames, lattice shells and gridshells serve as experimental platforms for standard reinforcement learning, multi-task learning, multi-agent learning, policy transfer and robust optimization.
+
+This is the most specialized layer of the research programme: using reinforcement learning and graph representations as engines for structural optimization and, more broadly, for intelligent computational design.
+
+Key questions:
+- How can reinforcement learning solve architectural and structural optimization problems with multiple competing objectives?
+- When do multi-task and multi-agent reinforcement learning outperform conventional or single-task approaches?
+- Can learned policies transfer across structural typologies, geometries and design conditions?
+
+Methods and skills:
+- Reinforcement Learning
+- Graph Neural Networks
+- Multi-task and multi-agent learning
+- Python
+- Structural analysis
+- Multi-objective and robust optimization
+
+## Publications
+- 2026. Reframing Architectural Classification as Representation: Perceptual, Structural, and Hybrid Encodings under Small-Data Conditions. Kupwiwat, C.-t., et al.. Frontiers of Architectural Research (accepted for publication).
+- 2026. Machine Learning-Enabled Real-Time Prediction of Drying Shrinkage in Fly Ash-Modified Cementitious Materials. Kupwiwat, C. T., & Prasittisopin, L.. ACS Omega. https://doi.org/10.1021/acsomega.6c04596
+- 2026. Life-cycle-aware structural optimization of timber lattice shells using multi-task graph reinforcement learning. Kupwiwat, C. T., Suriyaporn, P., Hawasly, F., & Prasittisopin, L.. Structures, 89, 112134. https://doi.org/10.1016/j.istruc.2026.112134
+- 2026. A unified evaluation framework for reinforcement learning paradigms in bi-objective truss optimization. Kupwiwat, C. T., & Ohsaki, M.. Advanced Engineering Informatics, 74(Part C), 104750. https://doi.org/10.1016/j.aei.2026.104750
+- 2026. Multi-task machine learning for structural optimizations of lattice shells. Kupwiwat, C. T., & Prasittisopin, L.. Engineering Structures, 358, 122654. https://doi.org/10.1016/j.engstruct.2026.122654
+- 2026. Effects of work-from-home (WFH)/hybrid work on well-being, work performance, and work engagement in architectural, engineering, and construction industry. Prasoppokakorn, T., Tetiranont, S., Kupwiwat, C. T., Ullah, F., & Prasittisopin, L.. Construction Innovation, 1–25. https://doi.org/10.1108/CI-09-2025-0387
+- 2026. Framework for Developing Resistivity Models to Identify Potential Safety Threats in Embankment Dams and Assessing the use of Bentonite in Repairing Deep Cracks in the Embankments. Zain, M., Kupwiwat, C. T., Prasittisopin, L., Praphaphankul, N., Kaewunruen, S., & Zaidi, M. A. A.. Engineered Science. https://dx.doi.org/10.30919/es2054
+- 2025. Integrating genetic algorithm and life cycle assessment for low-carbon optimization of timber lattice shell structures. Kupwiwat, C. T., Hawasly, F., & Prasittisopin, L.. Structures, 82, 110836. https://doi.org/10.1016/j.istruc.2025.110836
+- 2025. DeepTagPhoto: Expert-Guided Unsupervised Clustering of Thai Architectural Photography Using Pre-Trained CNN Models. Nakapana, W., Kupwiwat, C. T., & Khosakitchalert, C.. Frontiers of Architectural Research (accepted for publication). https://doi.org/10.1016/j.foar.2025.09.012
+- 2025. Establishing analytical vulnerability information for non-linear low-rise (1-to 3-storey) school building models. Zain, M., Kupwiwat, C. T., Thomas, H. K., & Prasittisopin, L.. Steel and Composite Structures, 56(6), 551–563. https://doi.org/10.12989/scs.2025.56.6.551
+- 2025. Thermal performance and urban simulation study of climate-responsive bottom ash–cement blocks. Sadakorn, W., Kupwiwat, C. T., Ngamkhanong, C., Jareemit, D., Kaewunruen, S., & Prasittisopin, L.. Construction and Building Materials, 491, 142816. https://doi.org/10.1016/j.conbuildmat.2025.142816
+- 2025. Advancing urban thermal comfort: adaptive ensemble machine learning models for tropical climates. Kupwiwat, C. T., Kaewunruen, S., & Prasittisopin, L.. Energy and Buildings, 115762. https://doi.org/10.1016/j.enbuild.2025.115762
+- 2025. Pre-trained machine learning for inverse structural design of piecewise developable surface. Kupwiwat, C. T., & Ohsaki, M.. Automation in Construction, 176, 106283. https://doi.org/10.1016/j.autcon.2025.106283
+- 2025. Hierarchical graph-based machine learning model for optimization of three-dimensional braced steel frame. Kupwiwat, C. T., Hayashi, K., & Ohsaki, M.. Engineering Applications of Artificial Intelligence, 147, 110356. https://doi.org/10.1016/j.engappai.2025.110356
+- 2024. Multi-objective optimization of truss structure using multi-agent reinforcement learning and graph representation. Kupwiwat, C. T., Hayashi, K., & Ohsaki, M.. Engineering Applications of Artificial Intelligence, 129, 107594. https://doi.org/10.1016/j.engappai.2023.107594
+- 2023. Structural morphogenesis of grid shell by using autonomous decentralized system and reinforcement learning. Yamamoto, K., & Kupwiwat, C.. Journal of Structural and Construction Engineering (AIJ), 88(811), 1360–1368. https://doi.org/10.3130/aijs.88.1360
+- 2023. Deep deterministic policy gradient and graph attention network for geometry optimization of latticed shells. Kupwiwat, C. T., Hayashi, K., & Ohsaki, M.. Applied Intelligence, 53(17), 19809–19826. https://doi.org/10.1007/s10489-023-04565-w
+- 2023. Deep deterministic policy gradient and graph convolutional network for topology optimization of braced steel frames. Kupwiwat, C., Iwagoe, Y., Hayashi, K., & Ohsaki, M.. Journal of Structural Engineering B, Architectural Institute of Japan, 69, 129–139. https://doi.org/10.3130/aijjse.69B.0_129
+- 2022. Deep deterministic policy gradient and graph convolutional network for bracing direction optimization of grid shells. Kupwiwat, C. T., Hayashi, K., & Ohsaki, M.. Frontiers in Built Environment, 8, 899072. https://doi.org/10.3389/fbuil.2022.899072
+- 2021. Fundamental study on morphogenesis of shell structure using reinforcement. Kupwiwat, C., & Yamamoto, K.. Journal of Structural Engineering B, Architectural Institute of Japan, 67, 211–218.
+
+## Courses
+- 2501684: Computer Technology for Architectural Research. Python programming, data science and machine learning for architectural research, simulation and computational design, with emphasis on how AI methods can be formulated, evaluated and interpreted in architectural problems.
+- 2501584: Individual Study in Architecture / Workshop in Structural Artifacts. A flexible course family connecting architectural structure, mechanics, computation and hands-on prototyping so students can translate structural ideas into physical and digital design workflows.
+- 2501370: Optimization in Architecture and Structural Design. Optimization for architectural and structural design, covering design variables, objective functions, constraints, evolutionary search, computational workflows and the relationship between optimization and AI-assisted design.
+- 2501113: Architectural Design I. Architectural studio teaching that uses rule-based, parametric and computational systems to explore how design possibilities emerge from relationships, constraints and generative workflows.
+
+## Research community
+- Dr. Muhammad Zain, Postdoctoral Researcher: AI-Driven Structural Optimization, Seismic Vulnerability Assessments, Seismotectonic and Geophysical investigations of infrastructural facilities including buildings and dams
+- Dr. Ei Cho Pyone, Postdoctoral Researcher: Structural optimization with machine learning
+- Dr. Anuwat Budda, Postdoctoral Researcher: Graph representation of buildings for safety analysis and AI-assisted reasoning
+- Prapawit Intun, PhD Researcher: Artificial Intelligence for Architectural Heritage (tentative)
+- Kanyagon Amornvet, Graduate Researcher: Context-Aware Material Infill Generation for Adaptive Reuse and Architectural Repair using Machine Learning
+- Putthiporn Suriyaporn, Undergraduate Researcher: Data-driven design of joint modules for timber lattice shell structure using tessellation technique
